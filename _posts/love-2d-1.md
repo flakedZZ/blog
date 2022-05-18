@@ -1,0 +1,11 @@
+---
+layout: post
+title: love2d 入门教程
+subtitle: 
+cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+tags: [love2d, lua, C++]
+---
+
+占坑
+从编译引擎到用lua实现游戏
