@@ -2,7 +2,7 @@
 layout: post
 title: C++并发编程实战(1)
 subtitle: 第一章
-cover-img: /assets/img/path.jpg
+# cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 tags: [读书笔记]
 ---
